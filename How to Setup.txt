@@ -1,0 +1,5 @@
+Hello! This is a rudimentary program using batch and CMD systems, to use my program simply click on the file named "Loop.bat" (There has been issues with Windows Defender incorrectly assigning the software as malware so if it pops up simply allow it and the program will run)
+
+This is my first program and I will be maybe making more in the future, I hope you enjoy!
+
+meow :3 meow :3 meow :3 meow :3 meow :3 meow :3 meow :3 meow :3 meow :3 meow :3 meow :3 meow :3 meow :3 meow :3 meow :3 
